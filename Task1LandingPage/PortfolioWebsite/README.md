@@ -30,7 +30,7 @@ The objective of this project is to apply web development fundamentals and build
 👩‍💻 Internship
 
 Organization: Oasis Infobyte
-Domain: Web Development and Designin
+Domain: Web Development and Designing
 
 
 📚 Learning Outcomes
